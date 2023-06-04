@@ -13,8 +13,6 @@ The JSON schemas here have been downloaded from the [Downloads - Open Charge All
 
 The `1.6` directory contains the JSON schema files for OCPP version 1.6. This version of OCPP is widely used in various charging infrastructure systems and provides a standard communication protocol between charge points and central systems.
 
-To download the OCPP 1.6 JSON schemas, please visit the [OCPP 1.6 Downloads](https://www.openchargealliance.org/5) page on the Open Charge Alliance website. 
-
 ## OCPP 2.0.1
 
 The `2.0.1` directory contains the JSON schema files for OCPP version 2.0.1. This version of OCPP introduces new features and improvements over the previous versions, providing enhanced capabilities for charging infrastructure management.
